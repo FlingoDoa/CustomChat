@@ -13,7 +13,10 @@ Just put the files in the plugins folder on your server. <br>Keep in mind that t
 ## What it looks like:
 <img width="382" height="43" alt="image" src="https://github.com/user-attachments/assets/85afdc33-2ed6-4e80-aa7c-4579812d9e44" />
 
-Connecting and disconnecting now looks like this
-[+]Username
-[-]Username
+Connecting and disconnecting now looks like this:
+
+	[+]Username
+
+	[-]Username
+
 And also when you write a nickname, he'll get a notification with a sound.
