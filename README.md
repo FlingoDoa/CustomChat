@@ -9,6 +9,8 @@ If you want the plugin to be released on a version lower than 1.21, let me know
 
 ## Installation:
 Just put the files in the plugins folder on your server. <br>Keep in mind that these plugins are created for Spigot/Bukkit servers! This will not work on Vanilla Minecraft servers!!!
+
+## What it looks like:
 <img width="382" height="43" alt="image" src="https://github.com/user-attachments/assets/85afdc33-2ed6-4e80-aa7c-4579812d9e44" />
 
 Connecting and disconnecting now looks like this
