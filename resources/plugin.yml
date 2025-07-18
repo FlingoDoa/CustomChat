@@ -1,0 +1,6 @@
+name: CustomChat
+version: 2.0
+main: me.plugin.customchat.CustomChat
+api-version: 1.21
+author: Flingo
+description: Плагин сделан Flingo
